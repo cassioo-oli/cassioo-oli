@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D2E,50:168A4A,100:8EDB73&height=170&section=header&text=Seu%20Nome&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Java%20Full%20Stack%20em%20forma%C3%A7%C3%A3o&descAlignY=65&descSize=19" alt="Cabeçalho do perfil" />
 
   <p>
-    <a href="https://github.com/SEU_USUARIO"><img src="https://img.shields.io/badge/Java-Full%20Stack-168A4A?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Full Stack" /></a>
+    <a href="https://github.com/cassioo-oli"><img src="https://img.shields.io/badge/Java-Full%20Stack-168A4A?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Full Stack" /></a>
     <img src="https://img.shields.io/badge/SENAI-Desenvolvimento%20de%20Sistemas-0B3D2E?style=for-the-badge" alt="SENAI" />
   </p>
 
@@ -11,7 +11,7 @@
 
 </div>
 
-## 🌱 Em construção
+##  Em construção
 
 Sou estudante de **Java Full Stack**, interessado em entender como boas soluções ganham vida — do banco de dados à experiência de quem usa o sistema.
 
@@ -22,11 +22,13 @@ IDEIA  →  PROTÓTIPO  →  CÓDIGO  →  EVOLUÇÃO
                🌿
 ```
 
-## 🧩 Tecnologias e ferramentas
+##  Tecnologias e ferramentas
 
 <div align="center">
 
 <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java&theme=light" alt="Java" /></a>
+<a href="https://en.cppreference.com/w/c/language"><img src="https://skillicons.dev/icons?i=c&theme=light" alt="C" /></a>
+<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp&theme=light" alt="C++" /></a>
 <a href="https://www.mysql.com/products/workbench/"><img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL Workbench" /></a>
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=light" alt="Git" /></a>
 <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub" /></a>
@@ -34,7 +36,7 @@ IDEIA  →  PROTÓTIPO  →  CÓDIGO  →  EVOLUÇÃO
 
 <br />
 
-`Java` &nbsp; `MySQL Workbench` &nbsp; `Git` &nbsp; `GitHub` &nbsp; `Figma`
+`Java` &nbsp; `C` &nbsp; `C++` &nbsp; `MySQL Workbench` &nbsp; `Git` &nbsp; `GitHub` &nbsp; `Figma`
 
 </div>
 
@@ -45,43 +47,15 @@ IDEIA  →  PROTÓTIPO  →  CÓDIGO  →  EVOLUÇÃO
 | 🔀 Versionamento | Git e GitHub para organizar e colaborar |
 | 🎨 Produto | Figma para transformar ideias em interfaces |
 
-## 🎯 Próximos passos
 
-```java
-public class Jornada {
-    public static void main(String[] args) {
-        String objetivo = "Criar aplicações Full Stack com Java";
-
-        while (true) {
-            aprender();
-            praticar();
-            construir();
-        }
-    }
-}
-```
-
-- Aprofundar Java e desenvolvimento web Full Stack
-- Criar projetos para praticar e resolver problemas reais
-- Evoluir em boas práticas e colaboração
-
-## 📊 GitHub em crescimento
-
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=168A4A&icon_color=168A4A&text_color=23402E" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=00000000&title_color=168A4A&text_color=23402E" alt="Linguagens mais usadas" />
-
-</div>
-
-## 🤝 Vamos conectar?
+##  Vamos conectar?
 
 Estou aberto a trocar ideias, aprender com a comunidade e colaborar em projetos. Você pode me encontrar aqui no GitHub ou pelos links abaixo.
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/SEU_PERFIL/"><img src="https://img.shields.io/badge/LinkedIn-168A4A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/E--mail-0B3D2E?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+  <a href="https://www.linkedin.com/in/cássio-vicente-oliveira-da-silva-77b938332"><img src="https://img.shields.io/badge/LinkedIn-168A4A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:cassiovicente7@gmail.com"><img src="https://img.shields.io/badge/E--mail-0B3D2E?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 
   <br /><br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,100:8EDB73&height=105&section=footer" alt="Rodapé verde" />
