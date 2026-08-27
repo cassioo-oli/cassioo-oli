@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D2E,50:168A4A,100:8EDB73&height=170&section=header&text=Cássio Vicente Oliveira da Silva&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Java%20Full%20Stack%20em%20forma%C3%A7%C3%A3o&descAlignY=65&descSize=19" alt="Cássio Vicente Oliveira da Silva" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D2E,50:168A4A,100:8EDB73&height=170&section=header&text=Cássio%20Vicente%20Oliveira%20da%20Silva&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Java%20Full%20Stack%20em%20forma%C3%A7%C3%A3o&descAlignY=65&descSize=19" alt="Cássio Vicente Oliveira da Silva" />
 
   <p>
     <a href="https://github.com/cassioo-oli"><img src="https://img.shields.io/badge/Java-Full%20Stack-168A4A?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Full Stack" /></a>
