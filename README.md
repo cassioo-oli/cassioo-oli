@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D2E,50:168A4A,100:8EDB73&height=170&section=header&text=Seu%20Nome&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Java%20Full%20Stack%20em%20forma%C3%A7%C3%A3o&descAlignY=65&descSize=19" alt="Cássio Vicente Oliveira da Silva" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B3D2E,50:168A4A,100:8EDB73&height=170&section=header&text=Cássio Vicente Oliveira da Silva&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Java%20Full%20Stack%20em%20forma%C3%A7%C3%A3o&descAlignY=65&descSize=19" alt="Cássio Vicente Oliveira da Silva" />
 
   <p>
     <a href="https://github.com/cassioo-oli"><img src="https://img.shields.io/badge/Java-Full%20Stack-168A4A?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Full Stack" /></a>
@@ -11,7 +11,7 @@
 
 </div>
 
-##  Em construção
+##  Minha Carreira e Conhecimentos
 
 Sou estudante de **Java Full Stack**, interessado em entender como boas soluções ganham vida — do banco de dados à experiência de quem usa o sistema.
 
@@ -19,10 +19,10 @@ Estou dando andamento ao curso de **Desenvolvimento de Sistemas no SENAI** e já
 
 ```text
 IDEIA  →  PROTÓTIPO  →  CÓDIGO  →  EVOLUÇÃO
-               🌿
+               
 ```
 
-##  Tecnologias e ferramentas
+##  Tecnologias e Ferramentas
 
 <div align="center">
 
@@ -46,7 +46,7 @@ IDEIA  →  PROTÓTIPO  →  CÓDIGO  →  EVOLUÇÃO
 | 🎨 Produto | Figma para transformar ideias em interfaces |
 
 
-##  Vamos conectar?
+##  Vamos Conectar?
 
 Estou aberto a trocar ideias, aprender com a comunidade e colaborar em projetos. Você pode me encontrar aqui no GitHub ou pelos links abaixo.
 
